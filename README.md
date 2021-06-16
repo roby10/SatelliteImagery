@@ -1,5 +1,5 @@
 # SatelliteImagery
-  Sample Network for classifying satellite data into 14 classes
+  Sample Network for classifying satellite data into 13 classes
   
   ['beach', 'chaparral', 'cloud', 'desert', 'forest', 'island', 'lake', 'meadow', 'mountain', 'river', 'sea', 'snowberg', 'wetland']
 
